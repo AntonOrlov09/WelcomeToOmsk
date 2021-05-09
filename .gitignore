@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+migrations
+static/
+video/
+
+# Django, DB
+db.sqlite3
+.idea/
